@@ -1,0 +1,7 @@
+PASOS:
+1- Crear el repositorio.
+2- Clonamos el repositorio a traves del comando git clone, para poder tenerlo de manera local.
+3- Hacemos cambios en el repositorio remoto y los guardamos con el comando git coomit-M.
+4- En Github desktop nos aparecera los cambios hechos en el repositorio remoto por lo que le tendremos que usar el comando Git pull para que se actualice el repositorio local.
+5- Hacemos cambios en el repositorio local y lo guardaremos con el comando git commit-m para que los cambios se guarden y se envien al repositorio remoto (todo esto con github desktop).
+De esta forma tendremos todos los cambios y actualizaciones guardadas tanto como en el repositorio local y remoto.
