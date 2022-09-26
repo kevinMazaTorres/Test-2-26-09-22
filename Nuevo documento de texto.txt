@@ -1,1 +1,4 @@
-PASOS: 1- 
+PASOS:
+1- Crear el repositorio.
+2- Clonamos el repositorio a traves del comando git clone, para poder tenerlo de manera local.
+3- Hacemos cambios en el repositorio remoto.
